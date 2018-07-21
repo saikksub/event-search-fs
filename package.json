@@ -1,0 +1,27 @@
+{
+  "name": "event-search-fs",
+  "version": "0.1.0",
+  "description": "Find files and directories in file system.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikksub/event-search-fs.git"
+  },
+  "keywords": [
+    "node",
+    "fs",
+    "search"
+  ],
+  "author": "saikksub <saikksub@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saikksub/event-search-fs/issues"
+  },
+  "homepage": "https://github.com/saikksub/event-search-fs#readme"
+}
